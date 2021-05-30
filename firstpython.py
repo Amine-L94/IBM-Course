@@ -1,4 +1,4 @@
 # Excerse1
-a = "Hello "
+a = "Hello " ## entering basic values
 b = "World"
 print(a+b)
